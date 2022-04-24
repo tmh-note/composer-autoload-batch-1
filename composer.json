@@ -1,0 +1,13 @@
+{
+    "autoload": {
+        "classmap": [
+            "./Classmap"
+        ],
+        "psr-4": {
+            "App\\":"app/"
+        },
+        "files": [
+            "./functions/helper.php"
+        ]
+    }
+}
